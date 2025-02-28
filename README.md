@@ -10,5 +10,8 @@ pkg install python-pip
 pip install requests
 pip install googlesearch-python
 pip install rich
+pkg install git
+git clone https://github.com/rawfishx/R
+cd R
 python3 dork.py
 ```
